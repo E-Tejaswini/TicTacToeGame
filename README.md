@@ -13,10 +13,9 @@ This is a simple command-line Tic-Tac-Toe game implemented in C++.
 - *Customizable Board Size*: Choose the size of the board (e.g., 3x3, 4x4).
 - *Winning Logic*: Automatically detects and announces the winner or a draw.
 - *Interactive*: User-friendly interface for input and output.
-
+- 
 ## How to Run
-
-
+https://github.com/E-Tejaswini/TicTacToeGame/assets/147268553/38a466c0-158d-45ef-a0bf-63f047630d3f
 
 ## Usage
 
